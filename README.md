@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- I am currently working on my dissertation project for my MSc in Quantitative Genetics & Genome Analysis
+- I am currently learning about the applications of machine learning techniques to genetic data
+- I am open to collaborating on bioinformatic and population genetic type projects
+- 🐦 Feel free to reach out on Twitter! @RossFinnegan_
+
 <!--
 **Ross-Finnegan/Ross-Finnegan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
